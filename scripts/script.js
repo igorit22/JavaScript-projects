@@ -1,0 +1,1 @@
+console.log('Hello, Igor from JS script!')
